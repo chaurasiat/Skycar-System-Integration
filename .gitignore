@@ -9,4 +9,4 @@ profile.tmp
 .vscode
 
 # Ignore training data
-object_detection/traffic_light*
+#object_detection/traffic_light*
